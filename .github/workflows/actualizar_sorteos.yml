@@ -1,7 +1,7 @@
 name: Actualizador Nocturno de Sorteos
 on:
   schedule:
-    # 04:15 UTC equivale a las 11:15 PM hora de Perú (UTC-5)
+    # Corre todos los días a las 11:15 PM hora de Perú (UTC-5)
     - cron: '15 4 * * *'
   workflow_dispatch:
 
