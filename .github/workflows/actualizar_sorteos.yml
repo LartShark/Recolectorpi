@@ -1,9 +1,9 @@
 name: Actualizador Nocturno de Sorteos
 on:
   schedule:
-    # Se ejecuta a las 04:15 UTC (11:15 PM hora de Perú / UTC-5)
+    # 04:15 UTC equivale a las 11:15 PM hora de Perú (UTC-5)
     - cron: '15 4 * * *'
-  workflow_dispatch: # Permite pulsar un botón para ejecutarlo cuando quieras
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,13 +23,16 @@ jobs:
       - name: Instalar librerías
         run: pip install -r requirements.txt
 
-      - name: Ejecutar recolector
+      - name: Ejecutar recolector y enviar alerta
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python recolector_peru.py
 
-      - name: Guardar cambios en el repositorio
+      - name: Guardar cambios en el CSV
         run: |
           git config user.name "Bot Sorteos Peru"
           git config user.email "bot@github.com"
           git add historial_loterias_peru.csv
-          git diff --staged --quiet || git commit -m "Actualización automática de base de datos"
+          git diff --staged --quiet || git commit -m "Actualización automática de sorteos"
           git push
