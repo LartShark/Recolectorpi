@@ -1,0 +1,11 @@
+partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronostico_simulado,mejor_mercado_ev,mejor_cuota,casa_referencia,ev_%,apuesta_kelly_soles
+2026-10-24_Atlético Madrid_Deportivo La Coruña,🇪🇸 LaLiga,24/10 14:00,Atlético Madrid,Deportivo La Coruña,75.2,15.8,9.0,Local,Visita,12.5,Betfair,12.07,0.52
+2026-10-25_Athletic Bilbao_Getafe,🇪🇸 LaLiga,25/10 08:00,Athletic Bilbao,Getafe,60.1,23.3,16.6,Local,Visita,6.8,Betfair,13.07,1.13
+2026-10-25_Celta Vigo_Real Betis,🇪🇸 LaLiga,25/10 10:15,Celta Vigo,Real Betis,30.5,26.3,43.2,Visita,Visita,2.36,1xBet,1.98,0.73
+2026-10-25_Real Sociedad_Levante,🇪🇸 LaLiga,25/10 12:30,Real Sociedad,Levante,59.9,21.2,18.8,Local,Visita,5.7,Betfair,7.41,0.79
+2026-10-25_Barcelona_Real Madrid,🇪🇸 LaLiga,25/10 15:00,Barcelona,Real Madrid,58.8,16.1,25.1,Local,Visita,4.37,1xBet,9.57,1.42
+2026-10-26_Sevilla_CA Osasuna,🇪🇸 LaLiga,26/10 15:00,Sevilla,CA Osasuna,49.6,28.0,22.3,Local,Visita,4.7,Betfair,5.0,0.68
+2026-10-30_Villarreal_Espanyol,🇪🇸 LaLiga,30/10 15:00,Villarreal,Espanyol,60.8,21.7,17.5,Local,Visita,5.75,Unibet (NL),0.74,0.0
+2026-10-31_Levante_Atlético Madrid,🇪🇸 LaLiga,31/10 08:00,Levante,Atlético Madrid,20.7,20.5,58.8,Visita,Local,5.24,1xBet,8.48,1.0
+2026-10-31_Rayo Vallecano_Celta Vigo,🇪🇸 LaLiga,31/10 10:15,Rayo Vallecano,Celta Vigo,40.9,27.5,31.7,Local,Visita,3.33,1xBet,5.4,1.16
+2026-10-31_Real Betis_Málaga,🇪🇸 LaLiga,31/10 12:30,Real Betis,Málaga,68.4,18.0,13.6,Local,Visita,7.8,Betfair,6.24,0.46
