@@ -1,0 +1,35 @@
+name: Actualizador Nocturno de Sorteos
+on:
+  schedule:
+    # Se ejecuta a las 04:15 UTC (11:15 PM hora de Perú / UTC-5)
+    - cron: '15 4 * * *'
+  workflow_dispatch: # Permite pulsar un botón para ejecutarlo cuando quieras
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar recolector
+        run: python recolector_peru.py
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config user.name "Bot Sorteos Peru"
+          git config user.email "bot@github.com"
+          git add historial_loterias_peru.csv
+          git diff --staged --quiet || git commit -m "Actualización automática de base de datos"
+          git push
