@@ -393,4 +393,5 @@ if __name__ == "__main__":
     analizar_futbol()
 
 if __name__ == "__main__":
-    main()
+    procesar_loterias()
+    analizar_futbol()
