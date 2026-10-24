@@ -23,16 +23,17 @@ jobs:
       - name: Instalar librerías
         run: pip install -r requirements.txt
 
-      - name: Ejecutar recolector y enviar alerta
+      - name: Ejecutar motores de Lotería y Fútbol
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python recolector_peru.py
 
-      - name: Guardar cambios en el CSV
+      - name: Guardar bases de datos CSV
         run: |
           git config user.name "Bot Sorteos Peru"
           git config user.email "bot@github.com"
-          git add historial_loterias_peru.csv
-          git diff --staged --quiet || git commit -m "Actualización automática de sorteos"
+          git add *.csv
+          git diff --staged --quiet || git commit -m "Actualización automática de loterías y fútbol"
           git push
