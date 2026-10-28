@@ -5,13 +5,22 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-10-25_Real Sociedad_Levante,🇪🇸 LaLiga,25/10 12:30,Real Sociedad,Levante,60.5,20.8,18.6,,Visita,5.6,,4.4,,Local,1.68,Unibet (SE),0.48
 2026-10-25_Barcelona_Real Madrid,🇪🇸 LaLiga,25/10 15:00,Barcelona,Real Madrid,58.8,16.3,24.9,,Local,1.7,,-0.08,,Local,1.74,Coolbet,0.0
 2026-10-26_Sevilla_CA Osasuna,🇪🇸 LaLiga,26/10 15:00,Sevilla,CA Osasuna,51.1,28.1,20.8,,Visita,4.9,,1.87,,Local,2.0,Betfair,0.24
-2026-10-30_Villarreal_Espanyol,🇪🇸 LaLiga,30/10 15:00,Villarreal,Espanyol,65.3,19.6,15.1,,Visita,7.2,,8.66,,Local,1.56,Betfair,0.7
-2026-10-31_Levante_Atlético Madrid,🇪🇸 LaLiga,31/10 08:00,Levante,Atlético Madrid,20.2,20.3,59.5,,Local,5.24,,5.71,,Visita,1.71,1xBet,0.67
-2026-10-31_Rayo Vallecano_Celta Vigo,🇪🇸 LaLiga,31/10 10:15,Rayo Vallecano,Celta Vigo,40.1,28.4,31.5,,Visita,3.19,,0.62,,Local,2.55,1xBet,0.0
-2026-10-31_Real Betis_Málaga,🇪🇸 LaLiga,31/10 12:30,Real Betis,Málaga,69.3,17.9,12.9,,Visita,8.0,,2.87,,Local,1.47,Betfair,0.2
-2026-10-31_Barcelona_Alavés,🇪🇸 LaLiga,31/10 15:00,Barcelona,Alavés,84.6,12.3,3.1,,Empate,11.7,,44.4,,Local,1.21,1xBet,2.07
-2026-11-01_Getafe_Sevilla,🇪🇸 LaLiga,01/11 08:00,Getafe,Sevilla,31.0,31.9,37.1,,Local,3.35,,3.88,,Visita,2.75,Matchbook,0.83
-2026-11-01_Real Racing Club de Santander_Real Madrid,🇪🇸 LaLiga,01/11 10:15,Real Racing Club de Santander,Real Madrid,10.3,12.6,77.1,,Local,11.0,,13.53,,Visita,1.32,Betfair,0.68
-2026-11-01_Elche CF_Valencia,🇪🇸 LaLiga,01/11 12:30,Elche CF,Valencia,39.5,28.2,32.3,,Local,2.55,,0.7,,Local,2.58,1xBet,0.0
-2026-11-01_Athletic Bilbao_Real Sociedad,🇪🇸 LaLiga,01/11 15:00,Athletic Bilbao,Real Sociedad,45.4,26.2,28.4,,Visita,3.65,,3.49,,Local,2.25,Unibet (SE),0.66
-2026-11-02_Deportivo La Coruña_CA Osasuna,🇪🇸 LaLiga,02/11 15:00,Deportivo La Coruña,CA Osasuna,43.8,29.5,26.6,,Empate,3.42,,0.96,,Local,2.33,1xBet,0.0
+2026-11-03_Galatasaray_VfB Stuttgart,🇪🇺 UEFA Champions League,03/11 12:45,Galatasaray,VfB Stuttgart,43.3,22.8,33.9,,Local,2.33,,0.86,,Local,2.36,1xBet,0.0
+2026-11-03_Shakhtar Donetsk_Sporting Lisbon,🇪🇺 UEFA Champions League,03/11 12:45,Shakhtar Donetsk,Sporting Lisbon,26.1,24.8,49.1,,Empate,4.1,,1.83,,Visita,2.08,Winamax (DE),0.3
+2026-11-03_Manchester United_AS Roma,🇪🇺 UEFA Champions League,03/11 15:00,Manchester United,AS Roma,41.3,23.9,34.8,,Visita,2.94,,2.38,,Local,2.47,1xBet,0.61
+2026-11-03_Barcelona_Aston Villa,🇪🇺 UEFA Champions League,03/11 15:00,Barcelona,Aston Villa,77.6,12.9,9.5,,Visita,12.0,,14.26,,Local,1.31,Nordic Bet,0.65
+2026-11-03_Atlético Madrid_Bayern Munich,🇪🇺 UEFA Champions League,03/11 15:00,Atlético Madrid,Bayern Munich,29.4,22.2,48.3,,Local,3.43,,0.95,,Visita,2.11,1xBet,0.0
+2026-11-03_Bodø/Glimt_Lille,🇪🇺 UEFA Champions League,03/11 15:00,Bodø/Glimt,Lille,52.1,23.1,24.8,,Local,1.94,,1.08,,Local,1.96,Codere (IT),0.0
+2026-11-03_Feyenoord_Inter Milan,🇪🇺 UEFA Champions League,03/11 15:00,Feyenoord,Inter Milan,21.9,21.5,56.6,,Local,4.6,,0.65,,Visita,1.8,Unibet (NL),0.0
+2026-11-03_LASK_ŠK Slovan Bratislava,🇪🇺 UEFA Champions League,03/11 15:00,LASK,ŠK Slovan Bratislava,66.4,18.5,15.0,,Visita,6.9,,3.75,,Local,1.54,Nordic Bet,0.32
+2026-11-03_Villarreal_Paris Saint Germain,🇪🇺 UEFA Champions League,03/11 15:00,Villarreal,Paris Saint Germain,20.1,20.9,59.0,,Local,5.1,,2.71,,Visita,1.73,Betfair,0.33
+2026-10-30_Villarreal_Espanyol,🇪🇸 LaLiga,30/10 15:00,Villarreal,Espanyol,67.9,18.5,13.7,,Visita,7.6,,4.06,,Local,1.5,Matchbook,0.31
+2026-10-31_Levante_Atlético Madrid,🇪🇸 LaLiga,31/10 08:00,Levante,Atlético Madrid,19.7,20.0,60.2,,Local,5.5,,8.54,,Visita,1.69,Matchbook,0.95
+2026-10-31_Rayo Vallecano_Celta Vigo,🇪🇸 LaLiga,31/10 10:15,Rayo Vallecano,Celta Vigo,40.1,28.6,31.2,,Local,2.54,,1.87,,Local,2.54,Betfair,0.61
+2026-10-31_Real Betis_Málaga,🇪🇸 LaLiga,31/10 12:30,Real Betis,Málaga,71.0,17.4,11.6,,Visita,8.8,,2.26,,Local,1.44,Betfair,0.14
+2026-10-31_Barcelona_Alavés,🇪🇸 LaLiga,31/10 15:00,Barcelona,Alavés,85.5,11.7,2.8,,Empate,11.7,,36.64,,Local,1.19,1xBet,1.71
+2026-11-01_Getafe_Sevilla,🇪🇸 LaLiga,01/11 08:00,Getafe,Sevilla,29.2,31.9,38.9,,Local,3.45,,0.67,,Visita,2.62,Betfair,0.0
+2026-11-01_Real Racing Club de Santander_Real Madrid,🇪🇸 LaLiga,01/11 10:15,Real Racing Club de Santander,Real Madrid,8.5,12.0,79.6,,Local,12.5,,5.66,,Visita,1.28,Betfair,0.25
+2026-11-01_Elche CF_Valencia,🇪🇸 LaLiga,01/11 12:30,Elche CF,Valencia,40.2,28.1,31.6,,Local,2.6,,4.63,,Local,2.53,Unibet (SE),1.45
+2026-11-01_Athletic Bilbao_Real Sociedad,🇪🇸 LaLiga,01/11 15:00,Athletic Bilbao,Real Sociedad,44.6,26.5,28.9,,Visita,3.56,,2.76,,Local,2.29,1xBet,0.54
+2026-11-02_Deportivo La Coruña_CA Osasuna,🇪🇸 LaLiga,02/11 15:00,Deportivo La Coruña,CA Osasuna,44.3,29.5,26.2,,Local,2.28,,1.0,,Local,2.3,1xBet,0.0
