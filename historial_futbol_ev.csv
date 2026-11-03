@@ -15,21 +15,21 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-01_Elche CF_Valencia,🇪🇸 LaLiga,01/11 12:30,Elche CF,Valencia,40.2,28.1,31.6,,Local,2.6,,4.63,,Local,2.53,Unibet (SE),1.45
 2026-11-01_Athletic Bilbao_Real Sociedad,🇪🇸 LaLiga,01/11 15:00,Athletic Bilbao,Real Sociedad,44.6,26.5,28.9,,Visita,3.56,,2.76,,Local,2.29,1xBet,0.54
 2026-11-02_Deportivo La Coruña_CA Osasuna,🇪🇸 LaLiga,02/11 15:00,Deportivo La Coruña,CA Osasuna,44.3,29.5,26.2,,Local,2.28,,1.0,,Local,2.3,1xBet,0.0
-2026-11-03_Galatasaray_VfB Stuttgart,🇪🇺 UEFA Champions League,03/11 12:45,Galatasaray,VfB Stuttgart,44.2,23.3,32.5,,Local,2.3,,1.59,,Local,2.31,Betfair,0.61
-2026-11-03_Shakhtar Donetsk_Sporting Lisbon,🇪🇺 UEFA Champions League,03/11 12:45,Shakhtar Donetsk,Sporting Lisbon,26.6,24.7,48.7,,Local,3.9,,3.68,,Visita,2.1,1xBet,0.63
-2026-11-03_Manchester United_AS Roma,🇪🇺 UEFA Champions League,03/11 15:00,Manchester United,AS Roma,41.5,23.6,34.8,,Local,2.44,,1.32,,Local,2.46,Betfair,0.0
-2026-11-03_Barcelona_Aston Villa,🇪🇺 UEFA Champions League,03/11 15:00,Barcelona,Aston Villa,76.6,13.2,10.2,,Visita,11.4,,16.36,,Local,1.33,1xBet,0.79
-2026-11-03_Atlético Madrid_Bayern Munich,🇪🇺 UEFA Champions League,03/11 15:00,Atlético Madrid,Bayern Munich,35.7,24.2,40.2,,Local,2.84,,1.32,,Visita,2.54,Betfair,0.0
-2026-11-03_Bodø/Glimt_Lille,🇪🇺 UEFA Champions League,03/11 15:00,Bodø/Glimt,Lille,52.8,23.1,24.1,,Local,1.92,,1.39,,Local,1.93,1xBet,0.0
-2026-11-03_Feyenoord_Inter Milan,🇪🇺 UEFA Champions League,03/11 15:00,Feyenoord,Inter Milan,25.1,22.5,52.4,,Local,4.07,,2.11,,Visita,1.95,1xBet,0.34
-2026-11-03_LASK_ŠK Slovan Bratislava,🇪🇺 UEFA Champions League,03/11 15:00,LASK,ŠK Slovan Bratislava,67.7,17.8,14.6,,Visita,7.4,,7.86,,Local,1.51,Betfair,0.61
-2026-11-03_Villarreal_Paris Saint Germain,🇪🇺 UEFA Champions League,03/11 15:00,Villarreal,Paris Saint Germain,19.1,20.0,60.9,,Visita,1.65,,0.51,,Visita,1.67,GTbets,0.0
-2026-11-04_AEK Athens_Real Madrid,🇪🇺 UEFA Champions League,04/11 12:45,AEK Athens,Real Madrid,8.9,13.7,77.4,,Local,11.5,,2.79,,Visita,1.32,Betfair,0.13
-2026-11-04_Fenerbahce_Liverpool,🇪🇺 UEFA Champions League,04/11 12:45,Fenerbahce,Liverpool,17.6,20.5,62.0,,Local,5.8,,1.82,,Visita,1.65,Betfair,0.19
-2026-11-04_Slavia Praha_Arsenal,🇪🇺 UEFA Champions League,04/11 15:00,Slavia Praha,Arsenal,9.4,15.6,75.0,,Local,11.5,,8.01,,Visita,1.36,Unibet (NL),0.38
-2026-11-04_Borussia Dortmund_Real Betis,🇪🇺 UEFA Champions League,04/11 15:00,Borussia Dortmund,Real Betis,56.1,22.6,21.3,,Local,1.8,,0.99,,Local,1.82,1xBet,0.0
-2026-11-04_PSV Eindhoven_Club Brugge,🇪🇺 UEFA Champions League,04/11 15:00,PSV Eindhoven,Club Brugge,46.7,21.5,31.8,,Visita,3.2,,1.81,,Local,2.18,Nordic Bet,0.41
-2026-11-04_RC Lens_Como,🇪🇺 UEFA Champions League,04/11 15:00,RC Lens,Como,32.6,23.4,44.1,,Local,3.25,,5.8,,Visita,2.31,Unibet (SE),1.29
-2026-11-04_RB Leipzig_Manchester City,🇪🇺 UEFA Champions League,04/11 15:00,RB Leipzig,Manchester City,18.7,20.5,60.8,,Local,5.54,,3.8,,Visita,1.68,1xBet,0.42
-2026-11-04_Porto_Napoli,🇪🇺 UEFA Champions League,04/11 15:00,Porto,Napoli,47.4,25.1,27.5,,Visita,3.9,,7.2,,Local,2.15,Unibet (SE),1.24
-2026-11-04_Viking FK_Sabah FK,🇪🇺 UEFA Champions League,04/11 15:00,Viking FK,Sabah FK,65.3,19.1,15.6,,Local,1.55,,1.2,,Local,1.56,GTbets,0.0
+2026-11-03_Galatasaray_VfB Stuttgart,🇪🇺 UEFA Champions League,03/11 12:45,Galatasaray,VfB Stuttgart,47.0,23.0,30.1,,Empate,4.4,,1.05,,Local,2.17,Betfair,0.0
+2026-11-03_Shakhtar Donetsk_Sporting Lisbon,🇪🇺 UEFA Champions League,03/11 12:45,Shakhtar Donetsk,Sporting Lisbon,27.4,25.6,47.0,,Local,3.8,,4.18,,Visita,2.17,Unibet (SE),0.75
+2026-11-03_Manchester United_AS Roma,🇪🇺 UEFA Champions League,03/11 15:00,Manchester United,AS Roma,44.6,23.4,32.1,,Local,2.26,,0.73,,Local,2.29,Betfair,0.0
+2026-11-03_Barcelona_Aston Villa,🇪🇺 UEFA Champions League,03/11 15:00,Barcelona,Aston Villa,75.4,13.4,11.1,,Visita,10.0,,11.12,,Local,1.35,Betfair,0.62
+2026-11-03_Atlético Madrid_Bayern Munich,🇪🇺 UEFA Champions League,03/11 15:00,Atlético Madrid,Bayern Munich,34.0,25.8,40.2,,Empate,4.0,,3.18,,Visita,2.54,Betfair,0.53
+2026-11-03_Bodø/Glimt_Lille,🇪🇺 UEFA Champions League,03/11 15:00,Bodø/Glimt,Lille,56.4,22.9,20.7,,Visita,4.9,,1.58,,Local,1.81,Matchbook,0.2
+2026-11-03_Feyenoord_Inter Milan,🇪🇺 UEFA Champions League,03/11 15:00,Feyenoord,Inter Milan,25.5,24.0,50.5,,Local,4.0,,2.15,,Visita,2.02,Unibet (NL),0.36
+2026-11-03_LASK_ŠK Slovan Bratislava,🇪🇺 UEFA Champions League,03/11 15:00,LASK,ŠK Slovan Bratislava,69.4,16.8,13.8,,Visita,8.0,,10.47,,Local,1.47,Unibet (SE),0.75
+2026-11-03_Villarreal_Paris Saint Germain,🇪🇺 UEFA Champions League,03/11 15:00,Villarreal,Paris Saint Germain,22.5,22.1,55.4,,Local,4.6,,3.55,,Visita,1.84,Betfair,0.49
+2026-11-04_AEK Athens_Real Madrid,🇪🇺 UEFA Champions League,04/11 12:45,AEK Athens,Real Madrid,9.2,13.6,77.2,,Local,12.5,,14.99,,Visita,1.32,Betfair,0.65
+2026-11-04_Fenerbahce_Liverpool,🇪🇺 UEFA Champions League,04/11 12:45,Fenerbahce,Liverpool,17.0,19.9,63.0,,Local,6.25,,6.29,,Visita,1.62,Unibet (NL),0.6
+2026-11-04_Slavia Praha_Arsenal,🇪🇺 UEFA Champions League,04/11 15:00,Slavia Praha,Arsenal,8.7,14.9,76.4,,Local,12.5,,8.9,,Visita,1.34,Matchbook,0.39
+2026-11-04_Borussia Dortmund_Real Betis,🇪🇺 UEFA Champions League,04/11 15:00,Borussia Dortmund,Real Betis,55.9,23.0,21.1,,Local,1.8,,0.58,,Local,1.83,1xBet,0.0
+2026-11-04_PSV Eindhoven_Club Brugge,🇪🇺 UEFA Champions League,04/11 15:00,PSV Eindhoven,Club Brugge,46.7,21.7,31.6,,Visita,3.25,,2.61,,Local,2.18,Betfair,0.58
+2026-11-04_RC Lens_Como,🇪🇺 UEFA Champions League,04/11 15:00,RC Lens,Como,31.0,24.0,44.9,,Local,3.3,,2.43,,Visita,2.27,Betfair,0.53
+2026-11-04_RB Leipzig_Manchester City,🇪🇺 UEFA Champions League,04/11 15:00,RB Leipzig,Manchester City,18.2,19.6,62.2,,Local,5.9,,7.43,,Visita,1.64,Betfair,0.76
+2026-11-04_Porto_Napoli,🇪🇺 UEFA Champions League,04/11 15:00,Porto,Napoli,50.0,24.9,25.1,,Visita,4.1,,3.01,,Local,2.04,Betfair,0.49
+2026-11-04_Viking FK_Sabah FK,🇪🇺 UEFA Champions League,04/11 15:00,Viking FK,Sabah FK,67.7,17.8,14.4,,Visita,7.2,,3.89,,Local,1.51,Betfair,0.31
