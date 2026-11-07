@@ -34,12 +34,21 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-04_Porto_Napoli,🇪🇺 UEFA Champions League,04/11 15:00,Porto,Napoli,51.9,26.0,22.1,,Empate,3.92,,1.79,,Local,1.97,BetOnline.ag,0.31
 2026-11-04_Viking FK_Sabah FK,🇪🇺 UEFA Champions League,04/11 15:00,Viking FK,Sabah FK,69.5,17.2,13.3,,Visita,7.8,,3.35,,Local,1.47,Betfair,0.25
 2026-11-06_Sevilla_Alavés,🇪🇸 LaLiga,06/11 15:00,Sevilla,Alavés,51.7,28.0,20.3,,Empate,3.65,,2.12,,Local,1.97,Unibet (SE),0.4
-2026-11-07_Málaga_Real Racing Club de Santander,🇪🇸 LaLiga,07/11 08:00,Málaga,Real Racing Club de Santander,39.8,27.0,33.2,,Empate,3.72,,0.42,,Local,2.56,1xBet,0.0
-2026-11-07_Espanyol_Deportivo La Coruña,🇪🇸 LaLiga,07/11 10:15,Espanyol,Deportivo La Coruña,41.5,28.9,29.6,,Visita,3.4,,0.7,,Local,2.46,Betfair,0.0
-2026-11-07_CA Osasuna_Athletic Bilbao,🇪🇸 LaLiga,07/11 12:30,CA Osasuna,Athletic Bilbao,26.5,27.0,46.5,,Local,3.95,,4.48,,Visita,2.19,Betfair,0.76
-2026-11-07_Valencia_Real Madrid,🇪🇸 LaLiga,07/11 15:00,Valencia,Real Madrid,10.6,14.5,74.9,,Local,11.0,,16.44,,Visita,1.36,Betfair,0.82
-2026-11-08_Elche CF_Real Betis,🇪🇸 LaLiga,08/11 08:00,Elche CF,Real Betis,28.7,25.1,46.2,,Local,3.55,,1.91,,Visita,2.21,Betfair,0.37
-2026-11-08_Real Sociedad_Rayo Vallecano,🇪🇸 LaLiga,08/11 10:15,Real Sociedad,Rayo Vallecano,56.3,22.7,21.0,,Visita,4.92,,3.35,,Local,1.81,1xBet,0.43
-2026-11-08_Celta Vigo_Levante,🇪🇸 LaLiga,08/11 12:30,Celta Vigo,Levante,51.0,25.1,23.9,,Visita,4.3,,2.94,,Local,2.0,Betfair,0.45
-2026-11-08_Villarreal_Getafe,🇪🇸 LaLiga,08/11 12:30,Villarreal,Getafe,67.6,20.0,12.4,,Visita,8.2,,1.58,,Local,1.51,Betfair,0.11
-2026-11-08_Atlético Madrid_Barcelona,🇪🇸 LaLiga,08/11 15:00,Atlético Madrid,Barcelona,25.5,21.6,52.9,,Local,4.0,,1.85,,Visita,1.93,Unibet (NL),0.31
+2026-11-07_Málaga_Real Racing Club de Santander,🇪🇸 LaLiga,07/11 08:00,Málaga,Real Racing Club de Santander,39.7,27.6,32.7,,Empate,3.72,,2.49,,Local,2.57,1xBet,0.46
+2026-11-07_Espanyol_Deportivo La Coruña,🇪🇸 LaLiga,07/11 10:15,Espanyol,Deportivo La Coruña,38.9,29.8,31.3,,Empate,3.4,,1.43,,Local,2.62,Unibet (NL),0.0
+2026-11-07_CA Osasuna_Athletic Bilbao,🇪🇸 LaLiga,07/11 12:30,CA Osasuna,Athletic Bilbao,25.2,27.7,47.2,,Visita,2.18,,2.83,,Visita,2.16,1xBet,1.2
+2026-11-07_Valencia_Real Madrid,🇪🇸 LaLiga,07/11 15:00,Valencia,Real Madrid,8.3,14.7,76.9,,Local,12.0,,0.1,,Visita,1.33,Tipico,0.0
+2026-11-08_Elche CF_Real Betis,🇪🇸 LaLiga,08/11 08:00,Elche CF,Real Betis,28.1,24.7,47.3,,Local,3.65,,2.41,,Visita,2.16,Betfair,0.45
+2026-11-08_Real Sociedad_Rayo Vallecano,🇪🇸 LaLiga,08/11 10:15,Real Sociedad,Rayo Vallecano,55.4,23.1,21.5,,Visita,4.92,,5.79,,Local,1.84,1xBet,0.74
+2026-11-08_Celta Vigo_Levante,🇪🇸 LaLiga,08/11 12:30,Celta Vigo,Levante,50.6,25.2,24.2,,Visita,4.6,,11.33,,Local,2.01,Matchbook,1.57
+2026-11-08_Villarreal_Getafe,🇪🇸 LaLiga,08/11 12:30,Villarreal,Getafe,66.9,20.1,12.9,,Visita,8.0,,3.42,,Local,1.52,Unibet (NL),0.24
+2026-11-08_Atlético Madrid_Barcelona,🇪🇸 LaLiga,08/11 15:00,Atlético Madrid,Barcelona,24.7,21.8,53.5,,Empate,4.7,,2.58,,Visita,1.91,Betfair,0.35
+2026-11-07_Leeds United_Tottenham Hotspur,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,07/11 07:30,Leeds United,Tottenham Hotspur,34.4,29.0,36.6,,Empate,3.62,,5.0,,Visita,2.79,1xBet,0.95
+2026-11-07_Arsenal_Hull City,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,07/11 10:00,Arsenal,Hull City,84.3,11.3,4.4,,Visita,25.0,,8.94,,Local,1.21,Betfair,0.19
+2026-11-07_Fulham_Newcastle United,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,07/11 10:00,Fulham,Newcastle United,47.7,26.7,25.7,,Empate,3.9,,3.99,,Local,2.14,1xBet,0.69
+2026-11-07_Nottingham Forest_Manchester City,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,07/11 12:30,Nottingham Forest,Manchester City,20.3,24.3,55.4,,Empate,4.26,,3.48,,Visita,1.84,1xBet,0.53
+2026-11-08_Ipswich Town_Bournemouth,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Ipswich Town,Bournemouth,23.7,25.7,50.6,,Empate,4.0,,2.72,,Visita,2.02,Unibet (SE),0.45
+2026-11-08_Brighton and Hove Albion_Brentford,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Brighton and Hove Albion,Brentford,49.8,24.8,25.4,,Visita,4.1,,4.03,,Local,2.05,Betfair,0.65
+2026-11-08_Sunderland_Chelsea,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Sunderland,Chelsea,26.0,26.0,48.0,,Local,3.95,,2.85,,Visita,2.13,Unibet (SE),0.48
+2026-11-08_Crystal Palace_Liverpool,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Crystal Palace,Liverpool,16.6,21.6,61.8,,Visita,1.62,,0.09,,Visita,1.65,1xBet,0.0
+2026-11-08_Manchester United_Aston Villa,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 11:30,Manchester United,Aston Villa,45.0,25.0,30.0,,Local,2.24,,0.91,,Local,2.26,Betfair,0.0
