@@ -52,12 +52,6 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-08_Sunderland_Chelsea,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Sunderland,Chelsea,23.1,25.6,51.3,,Empate,3.95,,1.25,,Visita,1.99,Winamax (DE),0.0
 2026-11-08_Crystal Palace_Liverpool,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 09:00,Crystal Palace,Liverpool,16.7,21.4,61.9,,Local,6.1,,1.85,,Visita,1.65,Unibet (NL),0.18
 2026-11-08_Manchester United_Aston Villa,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,08/11 11:30,Manchester United,Aston Villa,44.3,25.1,30.5,,Visita,3.3,,0.81,,Local,2.3,Betfair,0.0
-2026-11-21_Clube Atlético Mineiro_Boca Juniors,🏆 Copa Sudamericana,21/11 17:30,Clube Atlético Mineiro,Boca Juniors,27.1,31.4,41.5,,Empate,3.26,,2.51,,Visita,2.46,1xBet,0.56
-2026-11-20_Athletic Bilbao_Espanyol,🇪🇸 LaLiga,20/11 15:00,Athletic Bilbao,Espanyol,65.0,20.7,14.2,,Visita,7.4,,5.32,,Local,1.57,Betfair,0.42
-2026-11-21_Alavés_Deportivo La Coruña,🇪🇸 LaLiga,21/11 08:00,Alavés,Deportivo La Coruña,44.6,28.0,27.4,,Visita,3.75,,2.84,,Local,2.29,Unibet (NL),0.52
-2026-11-21_Rayo Vallecano_Valencia,🇪🇸 LaLiga,21/11 10:15,Rayo Vallecano,Valencia,49.2,27.1,23.7,,Local,2.07,,1.9,,Local,2.07,1xBet,0.89
-2026-11-21_Sevilla_Real Betis,🇪🇸 LaLiga,21/11 12:30,Sevilla,Real Betis,30.6,26.8,42.6,,Visita,2.38,,1.35,,Visita,2.4,Unibet (SE),0.0
-2026-11-21_Real Madrid_Celta Vigo,🇪🇸 LaLiga,21/11 15:00,Real Madrid,Celta Vigo,79.6,13.8,6.6,,Empate,8.6,,18.67,,Local,1.28,Betfair,1.23
 2026-11-21_Manchester City_Fulham,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 07:30,Manchester City,Fulham,67.8,18.4,13.8,,Visita,7.6,,5.06,,Local,1.51,Nordic Bet,0.38
 2026-11-21_Aston Villa_Sunderland,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Aston Villa,Sunderland,53.7,25.4,20.9,,Empate,4.16,,5.63,,Local,1.9,1xBet,0.89
 2026-11-21_Bournemouth_Nottingham Forest,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Bournemouth,Nottingham Forest,47.7,26.7,25.6,,Empate,3.78,,0.88,,Local,2.14,1xBet,0.0
@@ -65,3 +59,13 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-21_Coventry City_Crystal Palace,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Coventry City,Crystal Palace,39.1,27.2,33.7,,Empate,3.8,,3.49,,Local,2.61,1xBet,0.62
 2026-11-21_Tottenham Hotspur_Ipswich Town,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Tottenham Hotspur,Ipswich Town,61.8,21.4,16.8,,Visita,6.2,,4.17,,Local,1.65,Betfair,0.4
 2026-11-21_Newcastle United_Arsenal,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 12:30,Newcastle United,Arsenal,17.4,22.4,60.2,,Local,6.0,,4.22,,Visita,1.69,Unibet (SE),0.42
+2026-11-21_Clube Atlético Mineiro_Boca Juniors,🏆 Copa Sudamericana,21/11 17:30,Clube Atlético Mineiro,Boca Juniors,26.1,31.7,42.2,,Empate,3.26,,3.34,,Visita,2.42,1xBet,0.74
+2026-11-20_Athletic Bilbao_Espanyol,🇪🇸 LaLiga,20/11 15:00,Athletic Bilbao,Espanyol,63.5,21.8,14.7,,Visita,7.4,,9.12,,Local,1.61,Betfair,0.71
+2026-11-21_Alavés_Deportivo La Coruña,🇪🇸 LaLiga,21/11 08:00,Alavés,Deportivo La Coruña,43.2,28.2,28.6,,Visita,3.75,,7.3,,Local,2.36,Unibet (NL),1.33
+2026-11-21_Rayo Vallecano_Valencia,🇪🇸 LaLiga,21/11 10:15,Rayo Vallecano,Valencia,47.6,27.3,25.1,,Visita,4.1,,2.81,,Local,2.14,Betfair,0.45
+2026-11-21_Sevilla_Real Betis,🇪🇸 LaLiga,21/11 12:30,Sevilla,Real Betis,31.2,26.7,42.2,,Visita,2.38,,0.4,,Visita,2.42,Unibet (SE),0.0
+2026-11-21_Real Madrid_Celta Vigo,🇪🇸 LaLiga,21/11 15:00,Real Madrid,Celta Vigo,79.6,13.7,6.7,,Empate,8.6,,17.99,,Local,1.28,Betfair,1.18
+2026-11-22_Barcelona_Villarreal,🇪🇸 LaLiga,22/11 08:00,Barcelona,Villarreal,79.4,13.4,7.2,,Empate,9.0,,20.67,,Local,1.29,Betfair,1.29
+2026-11-22_Real Racing Club de Santander_Real Sociedad,🇪🇸 LaLiga,22/11 10:15,Real Racing Club de Santander,Real Sociedad,30.1,23.9,45.9,,Empate,4.2,,0.58,,Visita,2.22,Betfair,0.0
+2026-11-22_CA Osasuna_Málaga,🇪🇸 LaLiga,22/11 12:30,CA Osasuna,Málaga,54.3,25.5,20.2,,Visita,5.0,,1.14,,Local,1.88,Betfair,0.0
+2026-11-22_Getafe_Atlético Madrid,🇪🇸 LaLiga,22/11 15:00,Getafe,Atlético Madrid,17.2,24.6,58.3,,Local,6.0,,3.02,,Visita,1.75,Tipico,0.3
