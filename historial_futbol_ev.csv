@@ -59,7 +59,6 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-21_Coventry City_Crystal Palace,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Coventry City,Crystal Palace,39.1,27.2,33.7,,Empate,3.8,,3.49,,Local,2.61,1xBet,0.62
 2026-11-21_Tottenham Hotspur_Ipswich Town,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 10:00,Tottenham Hotspur,Ipswich Town,61.8,21.4,16.8,,Visita,6.2,,4.17,,Local,1.65,Betfair,0.4
 2026-11-21_Newcastle United_Arsenal,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League,21/11 12:30,Newcastle United,Arsenal,17.4,22.4,60.2,,Local,6.0,,4.22,,Visita,1.69,Unibet (SE),0.42
-2026-11-21_Clube Atlético Mineiro_Boca Juniors,🏆 Copa Sudamericana,21/11 17:30,Clube Atlético Mineiro,Boca Juniors,26.2,31.9,41.9,,Empate,3.26,,4.03,,Visita,2.44,1xBet,0.89
 2026-11-20_Athletic Bilbao_Espanyol,🇪🇸 LaLiga,20/11 15:00,Athletic Bilbao,Espanyol,65.0,21.1,13.9,,Visita,7.4,,2.6,,Local,1.57,Betfair,0.2
 2026-11-21_Alavés_Deportivo La Coruña,🇪🇸 LaLiga,21/11 08:00,Alavés,Deportivo La Coruña,43.6,27.9,28.4,,Visita,3.75,,6.68,,Local,2.34,Unibet (NL),1.21
 2026-11-21_Rayo Vallecano_Valencia,🇪🇸 LaLiga,21/11 10:15,Rayo Vallecano,Valencia,49.9,26.9,23.2,,Local,2.07,,3.29,,Local,2.04,1xBet,1.54
@@ -70,3 +69,13 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-22_CA Osasuna_Málaga,🇪🇸 LaLiga,22/11 12:30,CA Osasuna,Málaga,54.3,25.7,20.0,,Local,1.83,,-0.65,,Local,1.88,1xBet,0.0
 2026-11-22_Getafe_Atlético Madrid,🇪🇸 LaLiga,22/11 15:00,Getafe,Atlético Madrid,17.0,24.4,58.7,,Local,6.2,,5.19,,Visita,1.74,Betfair,0.5
 2026-11-23_Levante_Elche CF,🇪🇸 LaLiga,23/11 15:00,Levante,Elche CF,43.8,27.0,29.3,,Empate,3.82,,3.03,,Local,2.33,1xBet,0.54
+2026-11-21_Clube Atlético Mineiro_Boca Juniors,🏆 Copa Sudamericana,21/11 17:30,Clube Atlético Mineiro,Boca Juniors,26.2,31.7,42.1,,Empate,3.26,,3.41,,Visita,2.42,1xBet,0.75
+2026-11-24_Galatasaray_Aston Villa,🇪🇺 UEFA Champions League,24/11 12:45,Galatasaray,Aston Villa,36.6,24.6,38.8,,Local,2.7,,-1.08,,Visita,2.63,1xBet,0.0
+2026-11-24_Bodø/Glimt_LASK,🇪🇺 UEFA Champions League,24/11 12:45,Bodø/Glimt,LASK,63.6,18.5,17.9,,Visita,5.8,,4.04,,Local,1.6,Unibet (SE),0.42
+2026-11-24_Como_AEK Athens,🇪🇺 UEFA Champions League,24/11 15:00,Como,AEK Athens,69.7,20.1,10.2,,Empate,6.2,,24.47,,Local,1.46,Matchbook,2.35
+2026-11-24_Arsenal_Borussia Dortmund,🇪🇺 UEFA Champions League,24/11 15:00,Arsenal,Borussia Dortmund,69.2,18.8,12.0,,Empate,5.6,,5.29,,Local,1.47,Matchbook,0.58
+2026-11-24_Feyenoord_Porto,🇪🇺 UEFA Champions League,24/11 15:00,Feyenoord,Porto,35.0,26.0,39.1,,Visita,2.54,,-0.81,,Visita,2.61,1xBet,0.0
+2026-11-24_Manchester City_Napoli,🇪🇺 UEFA Champions League,24/11 15:00,Manchester City,Napoli,76.3,14.3,9.4,,Visita,11.6,,8.97,,Local,1.34,1xBet,0.42
+2026-11-24_Real Madrid_PSV Eindhoven,🇪🇺 UEFA Champions League,24/11 15:00,Real Madrid,PSV Eindhoven,80.5,11.0,8.5,,Visita,14.0,,18.95,,Local,1.27,Nordic Bet,0.73
+2026-11-24_RB Leipzig_RC Lens,🇪🇺 UEFA Champions League,24/11 15:00,RB Leipzig,RC Lens,66.3,17.0,16.7,,Visita,6.75,,12.75,,Local,1.54,Unibet (SE),1.11
+2026-11-24_ŠK Slovan Bratislava_Real Betis,🇪🇺 UEFA Champions League,24/11 15:00,ŠK Slovan Bratislava,Real Betis,9.2,13.6,77.1,,Local,11.6,,7.16,,Visita,1.32,1xBet,0.34
