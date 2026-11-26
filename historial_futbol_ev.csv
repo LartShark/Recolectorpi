@@ -79,7 +79,6 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-24_Real Madrid_PSV Eindhoven,🇪🇺 UEFA Champions League,24/11 15:00,Real Madrid,PSV Eindhoven,85.2,9.3,5.5,,Visita,19.0,,3.69,,Local,1.2,Betfair,0.1
 2026-11-24_RB Leipzig_RC Lens,🇪🇺 UEFA Champions League,24/11 15:00,RB Leipzig,RC Lens,71.6,16.3,12.1,,Visita,8.6,,4.05,,Local,1.42,Matchbook,0.27
 2026-11-24_ŠK Slovan Bratislava_Real Betis,🇪🇺 UEFA Champions League,24/11 15:00,ŠK Slovan Bratislava,Real Betis,9.6,14.7,75.7,,Local,11.6,,11.33,,Visita,1.35,1xBet,0.53
-2026-11-28_Palmeiras-SP_Estudiantes La Plata,🏆 Copa Libertadores,28/11 15:00,Palmeiras-SP,Estudiantes La Plata,46.1,32.6,21.2,,Empate,3.19,,4.09,,Local,2.21,1xBet,0.93
 2026-11-25_Sabah FK_Barcelona,🇪🇺 UEFA Champions League,25/11 12:45,Sabah FK,Barcelona,3.3,6.8,89.9,,Empate,20.0,,36.53,,Visita,1.14,Betfair,0.96
 2026-11-25_Slavia Praha_Villarreal,🇪🇺 UEFA Champions League,25/11 12:45,Slavia Praha,Villarreal,31.5,25.9,42.6,,Local,3.25,,2.22,,Visita,2.39,Unibet (NL),0.49
 2026-11-25_Paris Saint Germain_AS Roma,🇪🇺 UEFA Champions League,25/11 15:00,Paris Saint Germain,AS Roma,64.1,19.3,16.6,,Visita,6.6,,9.6,,Local,1.59,Betfair,0.86
@@ -89,3 +88,16 @@ partido_id,liga,fecha_hora_peru,local,visita,prob_L_%,prob_E_%,prob_V_%,pronosti
 2026-11-25_Shakhtar Donetsk_Fenerbahce,🇪🇺 UEFA Champions League,25/11 15:00,Shakhtar Donetsk,Fenerbahce,36.8,27.1,36.1,,Local,2.84,,4.49,,Local,2.77,1xBet,1.22
 2026-11-25_Inter Milan_VfB Stuttgart,🇪🇺 UEFA Champions League,25/11 15:00,Inter Milan,VfB Stuttgart,67.5,17.2,15.3,,Visita,7.0,,7.12,,Local,1.51,Betfair,0.59
 2026-11-25_Sporting Lisbon_Manchester United,🇪🇺 UEFA Champions League,25/11 15:00,Sporting Lisbon,Manchester United,35.6,25.9,38.4,,Visita,2.6,,-0.11,,Visita,2.65,Coolbet,0.0
+2026-11-28_Palmeiras-SP_Estudiantes La Plata,🏆 Copa Libertadores,28/11 15:00,Palmeiras-SP,Estudiantes La Plata,46.3,32.4,21.4,,Empate,3.18,,2.96,,Local,2.2,1xBet,0.68
+2026-11-27_Levante_Real Racing Club de Santander,🇪🇸 LaLiga,27/11 15:00,Levante,Real Racing Club de Santander,45.8,24.1,30.1,,Visita,3.35,,0.75,,Local,2.23,Coolbet,0.0
+2026-11-28_Real Betis_Rayo Vallecano,🇪🇸 LaLiga,28/11 08:00,Real Betis,Rayo Vallecano,59.5,21.7,18.8,,Visita,6.0,,12.87,,Local,1.72,Unibet (NL),1.29
+2026-11-28_Málaga_Athletic Bilbao,🇪🇸 LaLiga,28/11 10:15,Málaga,Athletic Bilbao,20.0,24.8,55.2,,Local,5.3,,5.85,,Visita,1.85,Betfair,0.68
+2026-11-28_Elche CF_Atlético Madrid,🇪🇸 LaLiga,28/11 12:30,Elche CF,Atlético Madrid,15.0,19.6,65.4,,Local,7.2,,8.06,,Visita,1.56,Betfair,0.65
+2026-11-28_Real Madrid_Alavés,🇪🇸 LaLiga,28/11 15:00,Real Madrid,Alavés,86.0,9.1,4.9,,Visita,23.0,,12.67,,Local,1.19,Betfair,0.29
+2026-11-29_Valencia_CA Osasuna,🇪🇸 LaLiga,29/11 08:00,Valencia,CA Osasuna,44.5,29.5,26.1,,Empate,3.45,,1.62,,Local,2.29,1xBet,0.33
+2026-11-29_Deportivo La Coruña_Barcelona,🇪🇸 LaLiga,29/11 10:15,Deportivo La Coruña,Barcelona,9.6,12.3,78.1,,Local,12.0,,15.0,,Visita,1.31,Betsson Perú,0.68
+2026-11-29_Celta Vigo_Villarreal,🇪🇸 LaLiga,29/11 12:30,Celta Vigo,Villarreal,35.2,26.8,38.0,,Visita,2.63,,0.07,,Visita,2.68,Unibet (NL),0.0
+2026-11-29_Real Sociedad_Sevilla,🇪🇸 LaLiga,29/11 15:00,Real Sociedad,Sevilla,45.3,25.3,29.4,,Visita,3.5,,2.74,,Local,2.25,Betfair,0.55
+2026-11-30_Espanyol_Getafe,🇪🇸 LaLiga,30/11 15:00,Espanyol,Getafe,46.9,30.2,23.0,,Empate,3.37,,1.63,,Local,2.18,1xBet,0.34
+2026-12-02_Real Sociedad_Real Madrid,🇪🇸 LaLiga,02/12 13:00,Real Sociedad,Real Madrid,15.6,18.3,66.1,,Local,7.0,,9.23,,Visita,1.54,Unibet (SE),0.77
+2026-12-02_Barcelona_Atlético Madrid,🇪🇸 LaLiga,02/12 15:30,Barcelona,Atlético Madrid,68.8,16.7,14.5,,Visita,7.6,,10.42,,Local,1.48,Betfair,0.79
